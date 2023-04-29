@@ -6,9 +6,9 @@
 <li>🎯 Software Quality Assurance </li>
 <li>👩🏽‍🦱 Pronouns: Ela/ She/ Elle </li>
 <li>💬 Languages:
-</br> -- Brazilian Portuguese (native)
-</br> -- English (advanced)
-</br> -- French (basics) </li>
+</br> Brazilian Portuguese (native)
+</br> English (advanced)
+</br> French (basics) </li>
 
 
 ### Techs 💻
